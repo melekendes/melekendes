@@ -12,7 +12,7 @@
 - 🤖 Exploring **Artificial Intelligence** and **Databases** 
 - 🌐 Interested in **Network Engineering** and **Communication Software Projects**   
 - 📊 Enjoy building **data-driven applications and intelligent systems**  
-- 🧩 Hands-on with projects that combine **software and real-world system.
+- 🧩 Hands-on with projects that combine software and real-world system.
 
 ---
 
